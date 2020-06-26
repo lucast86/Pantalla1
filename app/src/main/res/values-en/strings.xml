@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Enterokay"</string>
+    <string name="txtBienvenido">" Welcome back"</string>
+    <string name="edtNombre">" ENTER YOUR NAME"</string>
+    <string name="edtPass">" ENTER YOUR PASSWORD"</string>
+    <string name="txtRecordarUsuario">Remember User</string>
+    <string name="btnIngresar">Enterokay</string>
+    <string name="txtRegistrar">Unregistered? Create User</string>
+</resources>

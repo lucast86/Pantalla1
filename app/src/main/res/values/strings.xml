@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ingresar</string>
+    <string name="txtBienvenido">Bienvenido de Nuevo</string>
+    <string name="edtNombre">INGRESE SU NOMBRE</string>
+    <string name="edtPass">INGRESE SU CONTRASEÑA</string>
+    <string name="txtRecordarUsuario">Recordar Usuario</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="txtRegistrar">Sin Registrar? Crear Usuario</string>
+
+</resources>
